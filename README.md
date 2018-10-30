@@ -1,1 +1,1 @@
-"# WindowsServerConfig" 
+This is a project used to configure windows server features and roles. In this example, the choice to configure a web and app server are used and can be modified depending on the role of the windows server. 
