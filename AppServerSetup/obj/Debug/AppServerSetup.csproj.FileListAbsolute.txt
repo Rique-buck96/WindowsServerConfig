@@ -1,0 +1,9 @@
+C:\Users\Enrique Buck\source\repos\AppServerSetup\AppServerSetup\bin\Debug\System.Management.Automation.dll
+C:\Users\Enrique Buck\source\repos\AppServerSetup\AppServerSetup\obj\Debug\AppServerSetup.csprojAssemblyReference.cache
+C:\Users\Enrique Buck\source\repos\AppServerSetup\AppServerSetup\obj\Debug\AppServerSetup.csproj.CoreCompileInputs.cache
+C:\Users\Enrique Buck\source\repos\AppServerSetup\AppServerSetup\obj\Debug\AppServerSetup.csproj.CopyComplete
+C:\Users\Enrique Buck\source\repos\AppServerSetup\AppServerSetup\bin\Debug\ServerSetup.exe.config
+C:\Users\Enrique Buck\source\repos\AppServerSetup\AppServerSetup\bin\Debug\ServerSetup.exe
+C:\Users\Enrique Buck\source\repos\AppServerSetup\AppServerSetup\bin\Debug\ServerSetup.pdb
+C:\Users\Enrique Buck\source\repos\AppServerSetup\AppServerSetup\obj\Debug\ServerSetup.exe
+C:\Users\Enrique Buck\source\repos\AppServerSetup\AppServerSetup\obj\Debug\ServerSetup.pdb
